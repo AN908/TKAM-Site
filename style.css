@@ -1,0 +1,68 @@
+html{
+    background-color: lightgray;
+}
+
+
+
+body{
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    background-color: lightslategray;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 30px 100px;
+}
+
+p{
+    width: 600px;
+    margin: auto;
+}
+
+#box-of-buttons{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    border: 2px solid black;
+    width: 600px;
+    margin: auto;
+    border-radius: 15px;
+    background-color: gray;
+}
+
+#displayPhoto{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border: solid 5px black;
+}
+
+button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+#charInfo{
+    background-color: lightcyan;
+    padding: 10px 10px;
+    
+}
+
+#title{
+    background-color:seashell ;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 2px solid black;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
